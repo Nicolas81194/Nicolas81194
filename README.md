@@ -13,7 +13,7 @@
   <details>
     <summary><h3>📚 Linguagens de programação dominadas:</h3></summary><br>
     <div>
-      <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas81194&layout=compact&langs_count=7/>
+      <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas81194&layout=compact&langs_count=7&theme=tokyonight"/>
     </div>
     <div style="display: inline_block" align="left">
       <img align="center" height="25px" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
@@ -22,7 +22,6 @@
       <img align="center" height="25px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
       <img align="center" height="25px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
       <img align="center" height="25px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img align="center" height="25px" src="https://img.shields.io/badge/python-
     </div>
     <div style="display: inline_block" align="left"><br>
       <img align="center" height="25px" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
