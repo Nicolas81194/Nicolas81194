@@ -13,7 +13,7 @@
   <details>
     <summary><h3>📚 Linguagens de programação dominadas:</h3></summary><br>
     <div>
-      <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas81194&layout=compact&langs_count=7&theme=tokyonight"/>
+      <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas81194&layout=compact&langs_count=7"/>
     </div>
     <div style="display: inline_block" align="left">
       <img align="center" height="25px" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
