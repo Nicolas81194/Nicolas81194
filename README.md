@@ -11,7 +11,7 @@
 
 <div>
   <details>
-    <summary><h3>🐱‍💻 Tecnologias que estudei:</h3></summary><br>
+    <summary><h3>📚 Linguagens de programação dominadas:</h3></summary><br>
     <div>
       <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-leandro&layout=compact&langs_count=7&theme=tokyonight"/>
     </div>
@@ -31,5 +31,3 @@
     </div>
   </details>
 </div>
-
-----------------------------------------------------------------------------------------------------------------
