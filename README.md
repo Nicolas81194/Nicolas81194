@@ -1,4 +1,4 @@
-![jin](https://imgur.com/a/Zkj1eqd)
+![jin]<blockquote class="imgur-embed-pub" lang="en" data-id="a/Zkj1eqd" data-context="false" ><a href="//imgur.com/a/Zkj1eqd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 ----------------------------------------------------------------------------------------------------------------
 ### ❗ Sobre mim ❗
 ##### 
